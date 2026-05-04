@@ -15,6 +15,7 @@
 <hr style="border: 1px solid white;">
 
 📸 Images
+<br>
 
 > Main Front Page
 <img width="1906" height="873" alt="image" src="https://github.com/user-attachments/assets/709153ce-3b5e-4560-bce6-d57cd9f29994" />
