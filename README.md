@@ -1,6 +1,8 @@
 ## **AirHorizon**
 ### A full-stack web application for vacation rental platforms where users can discover current listing, list their own properties, and book accommodations with map-based location previews, image uploads, ratings, and secure authentication.
 
+<hr style="border: 1px solid white;">
+
 ⚙️ Built with:
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
